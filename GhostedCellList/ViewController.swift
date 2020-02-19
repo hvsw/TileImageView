@@ -8,6 +8,9 @@
 
 import UIKit
 
+// Useful to generate stripes:
+// http://www.stripegenerator.com/
+
 final class GhostedTableViewCell: UITableViewCell {
     @IBOutlet weak var myLabel: UILabel!
     @IBOutlet weak var tilesView: UIImageView!
